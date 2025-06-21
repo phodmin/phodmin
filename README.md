@@ -1,16 +1,17 @@
 Hi I'm Michal.
 
-<!--
-**phodmin/phodmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+These are some really useful tools:
 
-Here are some ideas to get you started:
+Scraping complex data fast:
+https://www.firecrawl.dev/referral?rid=CD8VRHB9
+[you get 100k tokens + 1000 credits] 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Build beautiful webapps fast:
+https://bolt.new/?rid=08mcoy 
+[you get 200k free tokens]
+
+Also:
+cursor
+supabase
+vercel + v0
