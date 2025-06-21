@@ -11,7 +11,4 @@ Build beautiful webapps fast:
 https://bolt.new/?rid=08mcoy 
 [you get 200k free tokens]
 
-Also:
-cursor
-supabase
-vercel + v0
+Also: cursor,  supabase, vercel + v0
