@@ -4,7 +4,7 @@
 - MSc in Computing (Imperial College London) - Thesis Distinction: Transformer Model for RNA sequence design
 - BA in Philosophy, Politics & Economics (University of Oxford, First Class, top decile)  
 
-I work on AI, software, and dual-use applications. Founding team member at [Sensible Biotechnologies (YC S21)](https://sensible.bio), where I lead partnerships and biosecurity projects including collaborations with NVIDIA and NATO DIANA.  
+I work on biotech, AI, software, and dual-use applications. Founding team member at [Sensible Biotechnologies (YC S21)](https://sensible.bio), where I lead partnerships and biosecurity projects including collaborations with NVIDIA and NATO DIANA.  
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/snake.svg">
