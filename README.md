@@ -6,6 +6,12 @@ BA in Philosophy, Politics & Economics (University of Oxford, First Class, top d
 
 I work on AI, software, and dual-use applications. Founding team member at [Sensible Biotechnologies (YC S21)](https://sensible.bio), where I lead partnerships and biosecurity projects including collaborations with NVIDIA and NATO DIANA.  
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="dist/snake.svg">
+  <img alt="github contribution snake" src="dist/snake.svg">
+</picture>
+
 ---
 #### Skills
 - **Programming & ML**: Python, C++, R, Java, PyTorch, TensorFlow, GNNs, Bayesian Inference, Signal Processing  
