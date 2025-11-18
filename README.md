@@ -32,7 +32,7 @@ I work on biotech, AI, software, and dual-use applications. Founding team member
 ---
 #### Contact
 - Website: [karlubik.com](https://karlubik.com)  
-- LinkedIn: [linkedin.com/in/michalkarlubik](https://linkedin.com/in/michalkarlubik)  
+- LinkedIn: [linkedin.com/in/karlubik](https://linkedin.com/in/michalkarlubik)  
 - Email: michal@karlubik.com  
 
 Some fun tools:
