@@ -19,7 +19,8 @@ I work on biotech, AI, software, and dual-use applications. Founding team member
 - **Languages**: English (C2), Slovak (C2), Czech (C2), Russian (B2), Ukrainian (B2), Spanish (B2), French (A2), German (A2)  
 ---
 #### Selected Projects
-- **Thomas (Bayesian Prior Elicitation Tool)** — https://thomas.gitbud.co *(not currently API-connected; reach out for backend integration)*  
+- **Thomas (Bayesian Prior Elicitation Tool)** — https://thomas.gitbud.co *(not currently API-connected; reach out for backend integration)*
+- **BioSecure** — KYC for biotech: safer DNA ordering + biosecurity screening workflows *(Def/Acc hackathon London winner)*  
 - **TSA Lane** — AI-enabled admissions prep platform (Oxford TSA and beyond)  
 - **Acoustic Grid** — lightweight acoustic + visual localisation prototype for UAV detection  
 - **Albed.io / Neural-LAM** — graph neural network for simulating geoengineering interventions and weather impacts  
