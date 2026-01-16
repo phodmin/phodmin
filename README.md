@@ -19,28 +19,25 @@ I work on biotech, AI, software, and dual-use applications. Founding team member
 - **Languages**: English (C2), Slovak (C2), Czech (C2), Russian (B2), Ukrainian (B2), Spanish (B2), French (A2), German (A2)  
 ---
 #### Selected Projects
-- Bayesian Prior Elicitation Tool (Thomas the Orb): thomas.gitbud.co [currently not plugged into API, reach out for backend integration if you want to use it]
-- AI-enabled admissions prep platform (Oxford TSA and beyond)  
-- **Acoustic Grid** – lightweight acoustic + visual localisation prototype for drone detection  
-- **Albed.io / Neural-LAM** – graph neural network for simulating geoengineering interventions and weather impacts  
+- **Thomas (Bayesian Prior Elicitation Tool)** — https://thomas.gitbud.co *(not currently API-connected; reach out for backend integration)*  
+- **TSA Lane** — AI-enabled admissions prep platform (Oxford TSA and beyond)  
+- **Acoustic Grid** — lightweight acoustic + visual localisation prototype for UAV detection  
+- **Albed.io / Neural-LAM** — graph neural network for simulating geoengineering interventions and weather impacts  
+- **Anti-Sophistry** — agentic coding assistant with enforced test-driven development (TDD)  
 ---
 #### Hackathons
-- **European Defense Tech Hackathon 2025** – 3rd place (team of two, 200+ participants)  
-- **SOTA Human Enhancement Hackathon 2025** – 1st place, Bayesian prior elicitation tool  
-- **ElevenLabs x Founder House Hackathon 2025** – 1st place (Omi Prize, voice processing)  
-- **SOTA Geoengineering Hackathon 2025** – Technical Excellence Award  
+- **BlueDot Impact × Apart Research Def/Acc Hackathon 2025 (London)** – **1st place (London winner)** — *BioSecure (KYC for biotech / safer DNA ordering)*  
+- **SOTA Human Enhancement Hackathon 2025** – **1st place (£1,000)** — *Thomas (Bayesian prior elicitation)*  
+- **ElevenLabs × Founder House Hackathon 2025** – **1st place (Omi Prize)** — *Real-time voice → insights pipeline*  
+- **European Defense Tech Hackathon 2025** – **3rd place** (team of two, 200+ participants) — *Acoustic + visual UAV localisation*  
+- **SOTA Geoengineering Hackathon 2025** – **Technical Excellence Award (£500)** — *Neural-LAM (GNN scenario simulator)*  
+- **DeepMind Gemini 3 London Dev Hackathon 2025** – *Anti-Sophistry (agentic coding + enforced TDD)*  
 ---
 #### Contact
 - Website: [karlubik.com](https://karlubik.com)  
 - LinkedIn: [linkedin.com/in/karlubik](https://linkedin.com/in/michalkarlubik)  
 - Email: michal@karlubik.com  
-
-Some fun tools:
-
-Scraping complex data fast:
-https://www.firecrawl.dev/referral?rid=CD8VRHB9
-[you get 100k tokens + 1000 credits] 
-
-Build webapps fast:
-https://bolt.new/?rid=08mcoy 
-[you get 200k free tokens]
+---
+#### Useful tools
+- Firecrawl (fast scraping): https://www.firecrawl.dev/referral?rid=CD8VRHB9  
+- Bolt (webapps fast): https://bolt.new/?rid=08mcoy  
